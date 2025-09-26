@@ -7,6 +7,7 @@ import MagneticShowcase from '@/component/Five'
 import TextSphere from '@/component/Six'
 import WaveBackground from '@/component/Seven'
 import ParticleBackground from '@/component/eight'
+import GalaxyBackground from '@/component/Nine'
 function main() {
   return (
     <div>
@@ -18,6 +19,7 @@ function main() {
       <TextSphere />
       <WaveBackground />
       <ParticleBackground />
+      <GalaxyBackground />
 
     </div>
   )
